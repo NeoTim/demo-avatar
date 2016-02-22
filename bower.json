@@ -1,0 +1,15 @@
+{
+  "name": "demo-avtar",
+  "homepage": "https://github.com/forsigner/demo-avtar",
+  "authors": [
+    "forsigner <forsigner@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

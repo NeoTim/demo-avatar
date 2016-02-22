@@ -1,0 +1,26 @@
+{
+  "name": "demo-avtar",
+  "version": "1.0.0",
+  "description": "demo-avtar",
+  "main": "demo-avtar.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forsigner/demo-avtar.git"
+  },
+  "keywords": [
+    "popover",
+    "tooltip"
+  ],
+  "author": "forsigner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forsigner/demo-avtar/issues"
+  },
+  "homepage": "https://github.com/forsigner/demo-avtar#readme",
+  "devDependencies": {
+    "babel-eslint": "^4.1.6",
+    "eslint": "^1.10.3"
+  }
+}
